@@ -1,4 +1,6 @@
 
 META-INF/
 .settings/
+
 **/*.class
+.classpath
