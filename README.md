@@ -11,6 +11,8 @@ Learning Spring Boot from this Pluralsight course:
 ## Tips
 - The H2 database is accessible at  
     `http://localhost:8080/h2`  
-    username: sa  
-    password: (blank)
+    Driver Class:   org.h2.Driver  
+    JDBC URL:       jdbc:h2:~/dasboot  
+    User name:      sa  
+    Password:       (blank)
 - Note to self: use Spring Tool Suite 
